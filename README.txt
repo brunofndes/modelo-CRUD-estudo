@@ -1,0 +1,1 @@
+Primeiro CRUD criado recebendo nome e email apenas do MySQL.
